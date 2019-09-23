@@ -1,4 +1,3 @@
-# https://hub.docker.com/r/prom/node-exporter/
 FROM nginx
 
 MAINTAINER Gordon
